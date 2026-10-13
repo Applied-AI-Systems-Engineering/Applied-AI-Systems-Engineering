@@ -21,4 +21,6 @@ Public examples remain disconnected from private systems. Scripted fixtures, tes
 - [GitHub Actions practice](https://github.com/Khemology/skills-hello-github-actions): event-triggered workflow and verified pull-request comment.
 - [Testing and coverage practice](https://github.com/Khemology/skills-test-with-actions): intentional failure, corrected assertion, error-path tests, Python version matrix and an enforced coverage merge gate. Final result: seven passing tests and 100% statement coverage of the exercise's small calculation module.
 
+- [Pull-request review practice](https://github.com/Khemology/skills-review-pull-requests): assignment, COMMENT reviews, an inline suggested edit applied through GitHub and verified merge. Same-account practice; independent peer approval is not claimed.
+
 These follow official GitHub Skills exercises. Course-derived work is attributed and kept separate from original capability demonstrations. Completion is determined from actual workflow and review results; these exercises demonstrate specific engineering mechanisms.
