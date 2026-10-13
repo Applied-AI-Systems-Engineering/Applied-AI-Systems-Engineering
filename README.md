@@ -1,4 +1,4 @@
-![Applied AI Systems — Architecture & Engineering](assets/applied-ai-banner.svg)
+![Applied AI Systems — Architecture & Engineering](assets/applied-ai-linkedin-banner.png)
 
 <p align="center">
 <a href="https://github.com/Khemology/capability-showcase"><b>Explore the capabilities</b></a> ·
