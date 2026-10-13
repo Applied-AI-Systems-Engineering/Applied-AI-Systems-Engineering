@@ -23,7 +23,7 @@ Public examples remain disconnected from private systems. Scripted fixtures, tes
 
 - [Pull-request review practice](https://github.com/Khemology/skills-review-pull-requests): assignment, COMMENT reviews, an inline suggested edit applied through GitHub and verified merge. Same-account practice; independent peer approval is not claimed.
 
-- [Reusable workflows practice](https://github.com/Khemology/skills-reusable-workflows): shared quality checks,33 unit tests,6 browser tests, static deployment and returned output. [Instructor game](https://khemology.github.io/skills-reusable-workflows/) has a separately documented live-site smoke check.
+- [Reusable workflows practice](https://github.com/Khemology/skills-reusable-workflows): shared quality checks, 33 unit tests, 6 browser tests, static deployment and returned output. [Instructor game](https://khemology.github.io/skills-reusable-workflows/) has a separately documented live-site smoke check.
 
 - [CodeQL practice](https://github.com/Khemology/skills-introduction-to-codeql): actual SQL-injection finding, diagnosed runtime failure and verified SQLite parameterization. Six regression checks pass and the alert is fixed on main.
 
