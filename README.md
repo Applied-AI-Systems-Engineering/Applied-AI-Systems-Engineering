@@ -25,4 +25,6 @@ Public examples remain disconnected from private systems. Scripted fixtures, tes
 
 - [Reusable workflows practice](https://github.com/Khemology/skills-reusable-workflows): shared quality checks,33 unit tests,6 browser tests, static deployment and returned output. [Instructor game](https://khemology.github.io/skills-reusable-workflows/) has a separately documented live-site smoke check.
 
+- [CodeQL practice](https://github.com/Khemology/skills-introduction-to-codeql): actual SQL-injection finding, diagnosed runtime failure and verified SQLite parameterization. Six regression checks pass and the alert is fixed on main.
+
 These follow official GitHub Skills exercises. Course-derived work is attributed and kept separate from original capability demonstrations. Completion is determined from actual workflow and review results; these exercises demonstrate specific engineering mechanisms.
