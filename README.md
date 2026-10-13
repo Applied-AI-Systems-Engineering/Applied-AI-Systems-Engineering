@@ -27,4 +27,6 @@ Public examples remain disconnected from private systems. Scripted fixtures, tes
 
 - [CodeQL practice](https://github.com/Khemology/skills-introduction-to-codeql): actual SQL-injection finding, diagnosed runtime failure and verified SQLite parameterization. Six regression checks pass and the alert is fixed on main.
 
+- [Release and hotfix practice](https://github.com/Khemology/skills-release-based-workflow/blob/main/completion-notes.md): published beta, stable and hotfix versions; real Chromium checks reproduced the introduced visual regression and verified recovery at the recorded tag commits.
+
 These follow official GitHub Skills exercises. Course-derived work is attributed and kept separate from original capability demonstrations. Completion is determined from actual workflow and review results; these exercises demonstrate specific engineering mechanisms.
