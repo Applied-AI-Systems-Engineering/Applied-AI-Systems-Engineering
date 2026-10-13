@@ -29,4 +29,6 @@ Public examples remain disconnected from private systems. Scripted fixtures, tes
 
 - [Release and hotfix practice](https://github.com/Khemology/skills-release-based-workflow/blob/main/completion-notes.md): published beta, stable and hotfix versions; real Chromium checks reproduced the introduced visual regression and verified recovery at the recorded tag commits.
 
+- [Supply-chain security practice](https://github.com/Khemology/skills-secure-repository-supply-chain/blob/main/completion-notes.md): reproduced and repaired a package vulnerability, reviewed and tested a genuine Dependabot security update, and verified version-update proposal generation. The legacy training application retains known findings and is not production ready.
+
 These follow official GitHub Skills exercises. Course-derived work is attributed and kept separate from original capability demonstrations. Completion is determined from actual workflow and review results; these exercises demonstrate specific engineering mechanisms.
