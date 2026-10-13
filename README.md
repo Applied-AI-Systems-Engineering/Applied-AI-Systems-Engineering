@@ -1,16 +1,21 @@
-## Hi there 👋
+# Applied AI Systems Architecture & Engineering
 
-<!--
-**Khemology/Khemology** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Systems work spanning agent orchestration, tool integration, stateful workflows and reproducible verification.
 
-Here are some ideas to get you started:
+## Explore the work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Capability showcase](https://github.com/Khemology/capability-showcase) — selected synthetic demonstrations with source, execution instructions, scope notes and automated checks.
+
+| Area | Demonstrated behavior |
+| --- | --- |
+| Stateful execution | Validated calculations, conditional routing, bounded execution and synthetic order previews |
+| Workflow automation | Record lookup, filtering, guarded synthetic changes and rejection checks |
+| Engineering verification | Deterministic Python tests and isolated native n8n execution in GitHub Actions |
+
+[![Verify public capabilities](https://github.com/Khemology/capability-showcase/actions/workflows/verify.yml/badge.svg)](https://github.com/Khemology/capability-showcase/actions/workflows/verify.yml)
+
+Public examples remain disconnected from private systems. Scripted fixtures, tested integrations and live inference are identified separately. The showcase documents what each example proves and what remains unverified.
+
+## Hands-on learning
+
+[GitHub Actions practice](https://github.com/Khemology/skills-hello-github-actions) follows the official GitHub Skills exercise. Course-derived work is attributed and kept separate from original capability demonstrations. Completion is determined from actual workflow and review results.
