@@ -26,7 +26,7 @@ Source, execution instructions, scope notes and automated checks accompany the d
 | Practice | Demonstrated result |
 | :--- | :--- |
 | [GitHub Actions](https://github.com/Applied-AI-Systems-Engineering/skills-hello-github-actions) | Event-triggered workflow and verified pull-request comment |
-| [Testing & coverage](https://github.com/Applied-AI-Systems-Engineering/skills-test-with-actions) | Intentional failure, correction, error-path tests, three Python versions and enforced coverage merge gate; seven passing tests, 100% statement coverage of the small exercise module |
+| [Testing & inter-system debugging](hands-on/inter-system-debugging/README.md) ([source exercise](https://github.com/Applied-AI-Systems-Engineering/skills-test-with-actions)) | Traced a failing assertion and a separate coverage gate across the lesson issue, pull request, Actions runner, pytest and coverage action; seven passing tests and 100% statement coverage in the exercise module |
 | [Pull-request review](https://github.com/Applied-AI-Systems-Engineering/skills-review-pull-requests) | Inline suggestion applied, thread resolved and merge verified; same-account practice |
 | [Reusable workflows](https://github.com/Applied-AI-Systems-Engineering/skills-reusable-workflows) | Shared checks, 33 unit tests, six browser tests and static deployment; [live instructor game](https://applied-ai-systems-engineering.github.io/skills-reusable-workflows/) |
 | [CodeQL](https://github.com/Applied-AI-Systems-Engineering/skills-introduction-to-codeql) | Actual SQL-injection finding repaired with SQLite parameterization; six regression checks pass and alert fixed on main |
